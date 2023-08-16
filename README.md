@@ -1,4 +1,4 @@
-# Pinterest Downloader
+# Pinterest Video Downloader
 
 Effortlessly download content from Pinterest using the Pinterest Downloader tool. Save and enjoy captivating visuals and media hassle-free.
 
